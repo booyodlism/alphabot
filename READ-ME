@@ -1,0 +1,10 @@
+pip install virtualenv
+virtualenv dc_env
+cd dc_env
+cd Scripts
+activate
+pip install setuptools
+pip install discord.py
+pip install python-dotenv
+pip install yt-dlp
+pip install PyNaCl
