@@ -1,0 +1,21 @@
+pip install virtualenv
+virtualenv dc_env
+cd dc_env
+cd Scripts
+activate
+pip install setuptools
+pip install discord.py
+pip install python-dotenv
+pip install yt-dlp
+pip install PyNaCl
+
+
+git clone https://github.com/booyodlism/alphabot.git
+
+git status
+
+git add .
+
+git commit -m "Tulis mesej commit yang clear"
+
+git push origin main
