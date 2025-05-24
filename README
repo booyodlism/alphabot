@@ -1,3 +1,10 @@
+Download and extracted the zip file.
+
+Fill in the token, id for role and channel and save it.
+
+Open CMD from inside alphabot folder,
+follow this installation step below
+
 pip install virtualenv
 virtualenv dc_env
 cd dc_env
@@ -8,3 +15,7 @@ pip install discord.py
 pip install python-dotenv
 pip install yt-dlp
 pip install PyNaCl
+
+After completed the installation, still same inside the CMD 
+type in python bot.py
+press enter to start the bot.
